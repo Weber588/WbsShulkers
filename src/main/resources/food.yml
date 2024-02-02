@@ -1,0 +1,118 @@
+# Values retrieved from https://minecraft.wiki/w/Food
+APPLE:
+  hunger: 4
+  saturation: 2.4
+BAKED_POTATO:
+  hunger: 5
+  saturation: 6
+BEETROOT:
+  hunger: 1
+  saturation: 1.2
+BEETROOT_SOUP:
+  hunger: 6
+  saturation: 7.2
+BREAD:
+  hunger: 5
+  saturation: 6
+CARROT:
+  hunger: 3
+  saturation: 3.6
+CHORUS_FRUIT:
+  hunger: 4
+  saturation: 2.4
+COOKED_CHICKEN:
+  hunger: 6
+  saturation: 7.2
+COOKED_COD:
+  hunger: 5
+  saturation: 6
+COOKED_MUTTON:
+  hunger: 6
+  saturation: 9.6
+COOKED_PORKCHOP:
+  hunger: 8
+  saturation: 12.8
+COOKED_RABBIT:
+  hunger: 5
+  saturation: 6
+COOKED_SALMON:
+  hunger: 6
+  saturation: 9.6
+COOKIE:
+  hunger: 2
+  saturation: 0.4
+DRIED_KELP:
+  hunger: 1
+  saturation: 0.6
+ENCHANTED_GOLDEN_APPLE:
+  hunger: 4
+  saturation: 9.6
+GOLDEN_APPLE:
+  hunger: 4
+  saturation: 9.6
+GLOW_BERRIES:
+  hunger: 2
+  saturation: 0.4
+GOLDEN_CARROT:
+  hunger: 6
+  saturation: 14.4
+HONEY_BOTTLE:
+  hunger: 6
+  saturation: 1.2
+MELON_SLICE:
+  hunger: 2
+  saturation: 1.2
+MUSHROOM_STEW:
+  hunger: 6
+  saturation: 7.2
+POISONOUS_POTATO:
+  hunger: 2
+  saturation: 1.2
+POTATO:
+  hunger: 1
+  saturation: 0.6
+PUFFERFISH:
+  hunger: 1
+  saturation: 0.2
+PUMPKIN_PIE:
+  hunger: 8
+  saturation: 4.8
+RABBIT_STEW:
+  hunger: 10
+  saturation: 12
+BEEF:
+  hunger: 3
+  saturation: 1.8
+CHICKEN:
+  hunger: 2
+  saturation: 1.2
+COD:
+  hunger: 2
+  saturation: 0.4
+MUTTON:
+  hunger: 2
+  saturation: 1.2
+PORKCHOP:
+  hunger: 3
+  saturation: 1.8
+RABBIT:
+  hunger: 3
+  saturation: 1.8
+SALMON:
+  hunger: 2
+  saturation: 0.4
+ROTTEN_FLESH:
+  hunger: 4
+  saturation: 0.8
+SPIDER_EYE:
+  hunger: 2
+  saturation: 3.2
+COOKED_BEEF:
+  hunger: 8
+  saturation: 12.8
+SWEET_BERRIES:
+  hunger: 2
+  saturation: 0.4
+TROPICAL_FISH:
+  hunger: 1
+  saturation: 0.2
